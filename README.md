@@ -12,4 +12,6 @@ handle the deserialization of the returned JSON to Kotlin data objects, and [Coi
 Getting Started
 ---------------
 
-1. Download and run the app.
+1. Download the app through this link-->
+
+https://drive.google.com/file/d/1KSy8rVVrbnrEynkzXkckhbekxMUOHmKo/view?usp=sharing
